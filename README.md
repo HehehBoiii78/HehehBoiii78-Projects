@@ -8,7 +8,7 @@ A public repository containing all the projects made by HehehBoiii78.
 ## List of projects
 1. Apps for Android
 * A web browser
-- Name: N/A
+&nbsp;&nbsp;&nbsp;&nbsp;- Name: N/A
 - Design language: Material 3 Expressive
 - Programming languages: XML and Kotlin
 - Made with: Android Studio and [Sketchware Pro](https://github.com/Sketchware-Pro/Sketchware-Pro)
