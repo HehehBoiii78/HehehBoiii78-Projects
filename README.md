@@ -1,6 +1,5 @@
 ## HehehBoiii78-Projects
 A public repository containing all the projects made by HehehBoiii78.
-
 ## List of projects
 > [!CAUTION]
 > This is a very early list of projects that I just wrote. Projects in this list can be modified, replaced, or completely canceled, and new projects can also be added.
