@@ -40,6 +40,6 @@ A public repository containing all the projects made by HehehBoiii78.
 * Purpose: To reply to every new comment made by [u/AutoModerator](https://www.reddit.com/u/AutoModerator) on [r/UpvoteAutomod](https://www.reddit.com/r/UpvoteAutomod) with "Good bot", to increase its ranking on [botrank.net](https://botrank.net/bots/AutomModerator)
 * Current account status: Suspended
 #### 2. Hum4nRank
-* Username: u/Hum4nRank
+* Username: [u/Hum4nRank](https://www.reddit.com/u/Hum4nRank)
 * Purpose: Inspired by [u/B0tRank](https://www.reddit.com/u/B0tRank), this bot is supposed to rank users on Reddit based on how many times they've commented "Good bot". Each comment registers as a vote to that user's account on the Hum4nRank page.
 * Current account status: Active
