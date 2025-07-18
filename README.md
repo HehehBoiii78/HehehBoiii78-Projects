@@ -6,7 +6,8 @@ A public repository containing all the projects made by HehehBoiii78.
 2. YouTube: [@HehehBoiii78](https://youtube.com/@hehehboiii78)
 
 ## List of projects
-[!CAUTION]This is a very early list of projects that I just wrote. Projects in this list can be modified, replaced, or completely canceled.
+> [!CAUTION]
+> This is a very early list of projects that I just wrote. Projects in this list can be modified, replaced, or completely canceled.
 ### Android
 #### 1. A web browser
 * Name: N/A
