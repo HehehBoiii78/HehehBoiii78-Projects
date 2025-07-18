@@ -12,16 +12,16 @@ A public repository containing all the projects made by HehehBoiii78.
 * Design language: Material 3 Expressive (latest as of writing this)
 * Programming languages: XML and Kotlin
 * Made using: Android Studio and [Sketchware Pro](https://sketchware.pro)
-* Published on: GitHub (this repository) and Sketchub
+* Published on: GitHub (this repository) and [Sketchub](https://web.sketchub.in/u/HehehBoiii78)
 #### 2. A local notes app
 * Name: N/A
 * Design language: Material 3 Expressive
 * Programming languages: XML and Kotlin
-* Made using: Android Studio and [Sketchware Pro](https://sketchware.pro)
+* Made using: Android Studio and Sketchware Pro
 * Published on: GitHub and Sketchub
 #### 3. A file manager
 * Name: N/A
 * Design language: Material 3 Expressive
 * Programming languages: XML and Kotlin
-* Made using: Android Studio and [Sketchware Pro](https://sketchware.pro)
+* Made using: Android Studio and Sketchware Pro
 * Published on: GitHub and Sketchub
