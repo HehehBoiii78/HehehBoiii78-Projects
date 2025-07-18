@@ -27,6 +27,7 @@ A public repository containing all the projects made by HehehBoiii78.
 * Programming languages: XML and Kotlin
 * Made using: Android Studio and Sketchware Pro
 * Published on: GitHub and Sketchub
+***
 ### Apps for Windows
 #### 1. A web browser
 * Name: N/A
@@ -34,6 +35,7 @@ A public repository containing all the projects made by HehehBoiii78.
 * Programming languages: XAML and C#
 * Made using: Visual Studio
 * Published on: GitHub (this repository)
+***
 ### Bots for Reddit
 #### 1. AutoModerator Lover
 * Username: [u/automod_lover](https://www.reddit.com/u/automod_lover)
